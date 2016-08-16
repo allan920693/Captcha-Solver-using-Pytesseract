@@ -16,12 +16,14 @@ Feel free to give me any feedback. You can mailto: allan920693@yahoo.com.tw
 # Step by Step
 
 1.	Install tesseract 
+
     pip install pytesseract
 
 2.	Install ImageMagick
+
     install colormath==1.0.8  
 
-3. excute Main()
+3. Excute Main()
 
 
 # How to Force tessdata to recognize digit only:
