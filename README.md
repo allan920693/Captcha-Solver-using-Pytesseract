@@ -1,6 +1,6 @@
 # Captcha-Solver-using-Pytesseract
 
-This project shows how to use pytesseract package (OCR, Optical Character Recognition) to solve Captcha 
+This project shows how to use pytesseract package (OCR, Optical Character Recognition) to solve Captcha. 
 
 OCR requires parameter tuning based on its image pattern.
 
