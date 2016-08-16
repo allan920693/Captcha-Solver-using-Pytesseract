@@ -10,5 +10,5 @@ The accuracy of proposed method can achieve up to 80%, which is acceptable for m
 
 Feel free to give me any feedback. You can mailto: allan920693@yahoo.com.tw
 
-Yu-Jia Chen   Taiwan, 08/17/2016, 2:17 AM
+                                            Yu-Jia Chen   Taiwan, 08/17/2016, 2:17 AM
 
